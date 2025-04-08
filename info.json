@@ -1,0 +1,15 @@
+{
+    "name": "chens-py-sea-block-mod",
+    "version": "0.1.0",
+    "title": "Chens Py Sea Block Mod",
+    "author": "JackieChen",
+    "dependencies": [
+        "chens-modpack-py-auxiliary-others",
+
+        "! chens-py-land-block-mod",
+        "! PyBlock"
+    ],
+    "description": "这个是我做的Py海块模组。",
+    "factorio_version": "2.0",
+    "license": "MIT"
+}
