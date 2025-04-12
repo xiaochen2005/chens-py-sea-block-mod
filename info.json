@@ -1,10 +1,11 @@
 {
     "name": "chens-py-sea-block-mod",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "title": "Chens Py Sea Block Mod",
     "author": "JackieChen",
     "dependencies": [
         "chens-modpack-py-auxiliary-others",
+        "pump-anywhere",
 
         "! chens-py-land-block-mod",
         "! PyBlock"
