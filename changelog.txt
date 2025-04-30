@@ -1,10 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2025-04-30
+  Changes:
+    - Added prerequisite mod: chens-py-sea-block-mod-core.
+
+    - Removed prerequisite mod: chens-modpack-py-auxiliary-others.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2025-04-12
- Change:
-  - Added prerequisite mod: pump-anywhere.
+  Changes:
+    - Added prerequisite mod: pump-anywhere.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2025-04-08
- Changes:
-  - Separated this mod from Chens Tweak Mod.
+  Changes:
+    - Separated this mod from Chens Tweak Mod.
